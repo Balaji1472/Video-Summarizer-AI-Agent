@@ -79,15 +79,6 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📷 Screenshots
-
-| Upload Video | Ask Questions | AI Response |
-|--------------|----------------|-------------|
-| ![Upload](https://via.placeholder.com/300x150?text=Upload+Video) | ![Query](https://via.placeholder.com/300x150?text=Ask+Anything) | ![Answer](https://via.placeholder.com/300x150?text=AI+Summary) |
-
-_(Replace with actual screenshots)_
-
----
 
 ## 🧠 Example Queries
 
